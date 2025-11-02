@@ -1,2 +1,2 @@
 # python-strings
-Python Strings Cheat Sheet.
+Cheat Sheet acerca de los **Strings** en Python. Creado por Gemini 2.5 Pro.
