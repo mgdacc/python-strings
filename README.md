@@ -1,2 +1,2 @@
 # python-strings
-Python Strings Cheat Sheet
+Python Strings Cheat Sheet.
